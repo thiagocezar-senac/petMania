@@ -2,40 +2,24 @@
 
 ![Design preview for the Order summary card coding challenge](./img/1-banner.jpg)
 
-## Seja Bem vindo !
+## Seja Bem vindo!
 
-Este foi um desafio realizado do Frontend Mentor.
+Este foi um desafio realizado em aula para criarmos uma página de micro negócio, com foco em HTML e CSS.
 
-### O desafio 
+### O desafio:
 
-O desafio era contruir um cartão parecendo o mais proximo possível do design, para um plano de flyer de musica.
+O desafio foi construir uma página de PetShop onde é oferecido alguns serviços.
 
-## Linguagens usadas
+## Linguagens:
 
-Para a realização do desafio e necessario conhecimentos básico em HTML e CSS.
-
-### Construído com
+Para a realização do desafio foi utilizado:
 
 - HTML5 
-- Propriedades personalizadas do CSS
+- CSS
 - Flexbox
 
-## Meu processo
+## Authores:
 
-Este código HTML constrói um cartão de resumo de um plano:
-
-- O **cabeçalho** inclui meta tags, links para um favicon, fontes do Google e o arquivo CSS.
-- O **corpo** contém uma imagem principal, um título "Order Summary", uma descrição do serviço, informações sobre o plano anual com preço, e opções de interação como "Change", "Proceed to Payment", e "Cancel Order".
-
-Ele serve como a estrutura base de uma página, pronta para estilização com CSS e interatividade.
-
-
-## Author
-
-- Frontend Mentor - [@s7lima](https://www.frontendmentor.io/profile/s7lima)
-- GitHub - [@s7lima](https://github.com/s7lima)
+- Eduardo Alcantara - [@deveduardo5](https://github.com/deveduardo5)
+- Thiago Cezar - [@thiagocezar-senac](https://github.com/thiagocezar-senac)
 - Project link - [site](https://20-09-s7limas-projects.vercel.app/)
-
-## Agradecimentos
-
-Muito obrigado pela a ajuda Professor Rodolfo
