@@ -176,7 +176,7 @@
   }
 
   .plan .price {
-    background-color: #2cc762;
+    background-color: brown;
     width: 120px;
     height: 120px;
     color: #fff;
@@ -198,7 +198,7 @@
   }
 
   .plan .plan-btn {
-    background-color: #2cc762;
+    background-color: brown;
     color: #fff;
     font-size: 24px;
     height: 75px;
@@ -243,7 +243,7 @@
   }
 
   .searchdomain-container input[type="submit"] {
-    background-color: #2cc762;
+    background-color: orange;
     padding: 15px 30px;
     color: #fff;
     font-size: 24px;
@@ -290,7 +290,7 @@
   .contact-container input[type="submit"] {
     display: block;
     margin: 0 auto;
-    background-color: #2cc76a;
+    background-color: orange;
     color: #fff;
     cursor: pointer;
   }
